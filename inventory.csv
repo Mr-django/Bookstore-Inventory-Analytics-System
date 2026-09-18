@@ -1,0 +1,31 @@
+Book_ID,Title,Author,Genre,Price,Quantity
+B001,The Alchemist,Paulo Coelho,Fiction,399,18
+B002,Atomic Habits,James Clear,Self-Help,599,25
+B003,Ikigai,Hector Garcia,Self-Help,449,20
+B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499,16
+B005,The Psychology of Money,Morgan Housel,Finance,550,22
+B006,1984,George Orwell,Fiction,299,14
+B007,To Kill a Mockingbird,Harper Lee,Fiction,350,10
+B008,The Great Gatsby,F. Scott Fitzgerald,Fiction,325,12
+B009,Sapiens,Yuval Noah Harari,History,699,17
+B010,Educated,Tara Westover,Biography,599,11
+B011,Steve Jobs,Walter Isaacson,Biography,799,9
+B012,Deep Work,Cal Newport,Productivity,525,19
+B013,Think and Grow Rich,Napoleon Hill,Self-Help,375,21
+B014,The Intelligent Investor,Benjamin Graham,Finance,850,8
+B015,Clean Code,Robert C. Martin,Technology,699,13
+B016,Python Crash Course,Eric Matthes,Technology,799,15
+B017,Automate the Boring Stuff,Al Sweigart,Technology,650,12
+B018,Data Science from Scratch,Joel Grus,Technology,900,7
+B019,The Hobbit,J.R.R. Tolkien,Fantasy,499,16
+B020,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,599,18
+B021,Dune,Frank Herbert,Fantasy,550,10
+B022,Pride and Prejudice,Jane Austen,Classic,399,13
+B023,The Kite Runner,Khaled Hosseini,Fiction,475,15
+B024,A Brief History of Time,Stephen Hawking,Science,650,9
+B025,Cosmos,Carl Sagan,Science,725,8
+B026,The Power of Now,Eckhart Tolle,Self-Help,499,14
+B027,Start With Why,Simon Sinek,Business,525,12
+B028,Zero to One,Peter Thiel,Business,499,10
+B029,Good to Great,Jim Collins,Business,650,11
+B030,The Lean Startup,Eric Ries,Business,599,13

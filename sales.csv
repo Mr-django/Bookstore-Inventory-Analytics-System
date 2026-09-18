@@ -1,0 +1,501 @@
+Sale_ID,Date,Book_ID,Title,Author,Genre,Unit_Price,Quantity,Revenue
+S0001,2025-08-27,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,2,950.0
+S0002,2025-02-01,B026,The Power of Now,Eckhart Tolle,Self-Help,499.0,3,1497.0
+S0003,2025-07-12,B003,Ikigai,Hector Garcia,Self-Help,449.0,4,1796.0
+S0004,2025-09-19,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,4,1900.0
+S0005,2025-11-03,B003,Ikigai,Hector Garcia,Self-Help,449.0,2,898.0
+S0006,2025-03-08,B011,Steve Jobs,Walter Isaacson,Biography,799.0,4,3196.0
+S0007,2025-05-27,B019,The Hobbit,J.R.R. Tolkien,Fantasy,499.0,4,1996.0
+S0008,2025-06-14,B013,Think and Grow Rich,Napoleon Hill,Self-Help,375.0,1,375.0
+S0009,2025-11-21,B016,Python Crash Course,Eric Matthes,Technology,799.0,1,799.0
+S0010,2025-04-12,B025,Cosmos,Carl Sagan,Science,725.0,3,2175.0
+S0011,2025-09-13,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,2,950.0
+S0012,2025-06-12,B030,The Lean Startup,Eric Ries,Business,599.0,4,2396.0
+S0013,2025-10-05,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,1,475.0
+S0014,2025-07-01,B014,The Intelligent Investor,Benjamin Graham,Finance,850.0,1,850.0
+S0015,2025-09-29,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,3,1497.0
+S0016,2025-05-14,B022,Pride and Prejudice,Jane Austen,Classic,399.0,4,1596.0
+S0017,2025-11-27,B009,Sapiens,Yuval Noah Harari,History,699.0,2,1398.0
+S0018,2025-10-18,B014,The Intelligent Investor,Benjamin Graham,Finance,850.0,1,850.0
+S0019,2025-09-08,B003,Ikigai,Hector Garcia,Self-Help,449.0,2,898.0
+S0020,2025-07-26,B006,1984,George Orwell,Fiction,299.0,3,897.0
+S0021,2025-02-28,B013,Think and Grow Rich,Napoleon Hill,Self-Help,375.0,4,1500.0
+S0022,2025-02-05,B021,Dune,Frank Herbert,Fantasy,550.0,2,1100.0
+S0023,2025-06-08,B026,The Power of Now,Eckhart Tolle,Self-Help,499.0,4,1996.0
+S0024,2025-11-24,B012,Deep Work,Cal Newport,Productivity,525.0,2,1050.0
+S0025,2025-08-21,B020,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,599.0,1,599.0
+S0026,2025-10-21,B005,The Psychology of Money,Morgan Housel,Finance,550.0,1,550.0
+S0027,2025-10-12,B024,A Brief History of Time,Stephen Hawking,Science,650.0,3,1950.0
+S0028,2025-04-12,B021,Dune,Frank Herbert,Fantasy,550.0,4,2200.0
+S0029,2025-07-04,B014,The Intelligent Investor,Benjamin Graham,Finance,850.0,3,2550.0
+S0030,2025-03-31,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,1,499.0
+S0031,2025-08-27,B020,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,599.0,2,1198.0
+S0032,2025-01-29,B017,Automate the Boring Stuff,Al Sweigart,Technology,650.0,4,2600.0
+S0033,2025-07-26,B019,The Hobbit,J.R.R. Tolkien,Fantasy,499.0,3,1497.0
+S0034,2025-10-18,B017,Automate the Boring Stuff,Al Sweigart,Technology,650.0,2,1300.0
+S0035,2025-05-07,B001,The Alchemist,Paulo Coelho,Fiction,399.0,2,798.0
+S0036,2025-04-11,B005,The Psychology of Money,Morgan Housel,Finance,550.0,2,1100.0
+S0037,2025-01-13,B026,The Power of Now,Eckhart Tolle,Self-Help,499.0,1,499.0
+S0038,2025-11-09,B002,Atomic Habits,James Clear,Self-Help,599.0,2,1198.0
+S0039,2025-06-08,B008,The Great Gatsby,F. Scott Fitzgerald,Fiction,325.0,3,975.0
+S0040,2025-07-04,B017,Automate the Boring Stuff,Al Sweigart,Technology,650.0,4,2600.0
+S0041,2025-05-30,B020,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,599.0,2,1198.0
+S0042,2025-04-28,B025,Cosmos,Carl Sagan,Science,725.0,1,725.0
+S0043,2025-02-08,B001,The Alchemist,Paulo Coelho,Fiction,399.0,1,399.0
+S0044,2025-09-12,B021,Dune,Frank Herbert,Fantasy,550.0,2,1100.0
+S0045,2025-11-25,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,3,1497.0
+S0046,2025-07-01,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,3,1497.0
+S0047,2025-03-02,B013,Think and Grow Rich,Napoleon Hill,Self-Help,375.0,2,750.0
+S0048,2025-09-07,B009,Sapiens,Yuval Noah Harari,History,699.0,3,2097.0
+S0049,2025-12-17,B011,Steve Jobs,Walter Isaacson,Biography,799.0,1,799.0
+S0050,2025-05-04,B003,Ikigai,Hector Garcia,Self-Help,449.0,4,1796.0
+S0051,2025-06-30,B028,Zero to One,Peter Thiel,Business,499.0,3,1497.0
+S0052,2025-10-06,B007,To Kill a Mockingbird,Harper Lee,Fiction,350.0,4,1400.0
+S0053,2025-04-06,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,3,1425.0
+S0054,2025-09-26,B013,Think and Grow Rich,Napoleon Hill,Self-Help,375.0,2,750.0
+S0055,2025-06-13,B003,Ikigai,Hector Garcia,Self-Help,449.0,4,1796.0
+S0056,2025-09-14,B014,The Intelligent Investor,Benjamin Graham,Finance,850.0,1,850.0
+S0057,2025-10-23,B009,Sapiens,Yuval Noah Harari,History,699.0,3,2097.0
+S0058,2025-06-19,B005,The Psychology of Money,Morgan Housel,Finance,550.0,4,2200.0
+S0059,2025-06-29,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,3,1425.0
+S0060,2025-04-23,B013,Think and Grow Rich,Napoleon Hill,Self-Help,375.0,3,1125.0
+S0061,2025-02-04,B017,Automate the Boring Stuff,Al Sweigart,Technology,650.0,3,1950.0
+S0062,2025-10-04,B002,Atomic Habits,James Clear,Self-Help,599.0,2,1198.0
+S0063,2025-03-07,B001,The Alchemist,Paulo Coelho,Fiction,399.0,2,798.0
+S0064,2025-08-30,B009,Sapiens,Yuval Noah Harari,History,699.0,1,699.0
+S0065,2025-03-05,B003,Ikigai,Hector Garcia,Self-Help,449.0,3,1347.0
+S0066,2025-04-20,B005,The Psychology of Money,Morgan Housel,Finance,550.0,4,2200.0
+S0067,2025-06-13,B017,Automate the Boring Stuff,Al Sweigart,Technology,650.0,2,1300.0
+S0068,2025-04-18,B018,Data Science from Scratch,Joel Grus,Technology,900.0,1,900.0
+S0069,2025-06-02,B029,Good to Great,Jim Collins,Business,650.0,2,1300.0
+S0070,2025-01-24,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,1,475.0
+S0071,2025-09-02,B015,Clean Code,Robert C. Martin,Technology,699.0,2,1398.0
+S0072,2025-02-28,B029,Good to Great,Jim Collins,Business,650.0,3,1950.0
+S0073,2025-10-22,B015,Clean Code,Robert C. Martin,Technology,699.0,2,1398.0
+S0074,2025-07-18,B010,Educated,Tara Westover,Biography,599.0,3,1797.0
+S0075,2025-04-14,B013,Think and Grow Rich,Napoleon Hill,Self-Help,375.0,1,375.0
+S0076,2025-01-04,B025,Cosmos,Carl Sagan,Science,725.0,4,2900.0
+S0077,2025-04-21,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,3,1497.0
+S0078,2025-09-01,B003,Ikigai,Hector Garcia,Self-Help,449.0,3,1347.0
+S0079,2025-03-31,B008,The Great Gatsby,F. Scott Fitzgerald,Fiction,325.0,3,975.0
+S0080,2025-12-09,B022,Pride and Prejudice,Jane Austen,Classic,399.0,4,1596.0
+S0081,2025-08-13,B003,Ikigai,Hector Garcia,Self-Help,449.0,4,1796.0
+S0082,2025-03-28,B006,1984,George Orwell,Fiction,299.0,1,299.0
+S0083,2025-07-19,B016,Python Crash Course,Eric Matthes,Technology,799.0,2,1598.0
+S0084,2025-06-17,B025,Cosmos,Carl Sagan,Science,725.0,4,2900.0
+S0085,2025-03-15,B009,Sapiens,Yuval Noah Harari,History,699.0,4,2796.0
+S0086,2025-08-15,B008,The Great Gatsby,F. Scott Fitzgerald,Fiction,325.0,3,975.0
+S0087,2025-12-28,B007,To Kill a Mockingbird,Harper Lee,Fiction,350.0,4,1400.0
+S0088,2025-07-14,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,1,499.0
+S0089,2025-12-20,B013,Think and Grow Rich,Napoleon Hill,Self-Help,375.0,4,1500.0
+S0090,2025-02-03,B027,Start With Why,Simon Sinek,Business,525.0,3,1575.0
+S0091,2025-03-23,B027,Start With Why,Simon Sinek,Business,525.0,4,2100.0
+S0092,2025-06-21,B016,Python Crash Course,Eric Matthes,Technology,799.0,2,1598.0
+S0093,2025-05-03,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,3,1425.0
+S0094,2025-11-20,B011,Steve Jobs,Walter Isaacson,Biography,799.0,1,799.0
+S0095,2025-05-19,B022,Pride and Prejudice,Jane Austen,Classic,399.0,2,798.0
+S0096,2025-12-12,B029,Good to Great,Jim Collins,Business,650.0,1,650.0
+S0097,2025-01-25,B003,Ikigai,Hector Garcia,Self-Help,449.0,4,1796.0
+S0098,2025-09-30,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,1,499.0
+S0099,2025-09-20,B018,Data Science from Scratch,Joel Grus,Technology,900.0,4,3600.0
+S0100,2025-04-13,B005,The Psychology of Money,Morgan Housel,Finance,550.0,2,1100.0
+S0101,2025-04-27,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,4,1900.0
+S0102,2025-06-08,B015,Clean Code,Robert C. Martin,Technology,699.0,1,699.0
+S0103,2025-03-05,B001,The Alchemist,Paulo Coelho,Fiction,399.0,1,399.0
+S0104,2025-01-07,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,3,1497.0
+S0105,2025-04-19,B003,Ikigai,Hector Garcia,Self-Help,449.0,3,1347.0
+S0106,2025-10-07,B020,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,599.0,3,1797.0
+S0107,2025-11-12,B005,The Psychology of Money,Morgan Housel,Finance,550.0,4,2200.0
+S0108,2025-01-31,B021,Dune,Frank Herbert,Fantasy,550.0,3,1650.0
+S0109,2025-06-08,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,1,499.0
+S0110,2025-01-30,B028,Zero to One,Peter Thiel,Business,499.0,2,998.0
+S0111,2025-02-18,B009,Sapiens,Yuval Noah Harari,History,699.0,2,1398.0
+S0112,2025-04-25,B020,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,599.0,4,2396.0
+S0113,2025-12-17,B008,The Great Gatsby,F. Scott Fitzgerald,Fiction,325.0,4,1300.0
+S0114,2025-08-06,B001,The Alchemist,Paulo Coelho,Fiction,399.0,3,1197.0
+S0115,2025-11-03,B019,The Hobbit,J.R.R. Tolkien,Fantasy,499.0,1,499.0
+S0116,2025-10-01,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,2,998.0
+S0117,2025-03-02,B029,Good to Great,Jim Collins,Business,650.0,3,1950.0
+S0118,2025-09-27,B028,Zero to One,Peter Thiel,Business,499.0,4,1996.0
+S0119,2025-08-20,B014,The Intelligent Investor,Benjamin Graham,Finance,850.0,4,3400.0
+S0120,2025-08-31,B001,The Alchemist,Paulo Coelho,Fiction,399.0,1,399.0
+S0121,2025-04-02,B025,Cosmos,Carl Sagan,Science,725.0,4,2900.0
+S0122,2025-05-02,B006,1984,George Orwell,Fiction,299.0,3,897.0
+S0123,2025-12-07,B018,Data Science from Scratch,Joel Grus,Technology,900.0,4,3600.0
+S0124,2025-04-16,B018,Data Science from Scratch,Joel Grus,Technology,900.0,2,1800.0
+S0125,2025-12-05,B011,Steve Jobs,Walter Isaacson,Biography,799.0,2,1598.0
+S0126,2025-12-18,B020,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,599.0,4,2396.0
+S0127,2025-07-13,B013,Think and Grow Rich,Napoleon Hill,Self-Help,375.0,1,375.0
+S0128,2025-12-30,B006,1984,George Orwell,Fiction,299.0,3,897.0
+S0129,2025-12-17,B025,Cosmos,Carl Sagan,Science,725.0,1,725.0
+S0130,2025-06-23,B002,Atomic Habits,James Clear,Self-Help,599.0,3,1797.0
+S0131,2025-03-12,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,4,1996.0
+S0132,2025-12-04,B009,Sapiens,Yuval Noah Harari,History,699.0,1,699.0
+S0133,2025-08-07,B028,Zero to One,Peter Thiel,Business,499.0,1,499.0
+S0134,2025-07-30,B008,The Great Gatsby,F. Scott Fitzgerald,Fiction,325.0,1,325.0
+S0135,2025-07-17,B003,Ikigai,Hector Garcia,Self-Help,449.0,1,449.0
+S0136,2025-03-13,B002,Atomic Habits,James Clear,Self-Help,599.0,1,599.0
+S0137,2025-06-06,B002,Atomic Habits,James Clear,Self-Help,599.0,3,1797.0
+S0138,2025-10-21,B020,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,599.0,2,1198.0
+S0139,2025-12-26,B009,Sapiens,Yuval Noah Harari,History,699.0,3,2097.0
+S0140,2025-10-17,B027,Start With Why,Simon Sinek,Business,525.0,4,2100.0
+S0141,2025-06-29,B002,Atomic Habits,James Clear,Self-Help,599.0,1,599.0
+S0142,2025-03-25,B006,1984,George Orwell,Fiction,299.0,1,299.0
+S0143,2025-12-13,B017,Automate the Boring Stuff,Al Sweigart,Technology,650.0,2,1300.0
+S0144,2025-01-03,B002,Atomic Habits,James Clear,Self-Help,599.0,2,1198.0
+S0145,2025-11-23,B016,Python Crash Course,Eric Matthes,Technology,799.0,1,799.0
+S0146,2025-02-08,B026,The Power of Now,Eckhart Tolle,Self-Help,499.0,1,499.0
+S0147,2025-09-09,B028,Zero to One,Peter Thiel,Business,499.0,1,499.0
+S0148,2025-10-20,B026,The Power of Now,Eckhart Tolle,Self-Help,499.0,4,1996.0
+S0149,2025-04-28,B030,The Lean Startup,Eric Ries,Business,599.0,4,2396.0
+S0150,2025-08-18,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,3,1425.0
+S0151,2025-09-27,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,1,475.0
+S0152,2025-04-28,B016,Python Crash Course,Eric Matthes,Technology,799.0,3,2397.0
+S0153,2025-11-01,B026,The Power of Now,Eckhart Tolle,Self-Help,499.0,2,998.0
+S0154,2025-09-08,B012,Deep Work,Cal Newport,Productivity,525.0,3,1575.0
+S0155,2025-01-23,B007,To Kill a Mockingbird,Harper Lee,Fiction,350.0,1,350.0
+S0156,2025-03-02,B015,Clean Code,Robert C. Martin,Technology,699.0,2,1398.0
+S0157,2025-05-04,B006,1984,George Orwell,Fiction,299.0,2,598.0
+S0158,2025-09-26,B011,Steve Jobs,Walter Isaacson,Biography,799.0,2,1598.0
+S0159,2025-03-08,B012,Deep Work,Cal Newport,Productivity,525.0,3,1575.0
+S0160,2025-10-17,B009,Sapiens,Yuval Noah Harari,History,699.0,4,2796.0
+S0161,2025-11-08,B028,Zero to One,Peter Thiel,Business,499.0,2,998.0
+S0162,2025-06-18,B009,Sapiens,Yuval Noah Harari,History,699.0,3,2097.0
+S0163,2025-06-28,B026,The Power of Now,Eckhart Tolle,Self-Help,499.0,3,1497.0
+S0164,2025-07-21,B024,A Brief History of Time,Stephen Hawking,Science,650.0,3,1950.0
+S0165,2025-01-27,B019,The Hobbit,J.R.R. Tolkien,Fantasy,499.0,2,998.0
+S0166,2025-01-13,B022,Pride and Prejudice,Jane Austen,Classic,399.0,1,399.0
+S0167,2025-07-03,B020,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,599.0,4,2396.0
+S0168,2025-12-14,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,3,1497.0
+S0169,2025-08-15,B003,Ikigai,Hector Garcia,Self-Help,449.0,3,1347.0
+S0170,2025-07-10,B002,Atomic Habits,James Clear,Self-Help,599.0,4,2396.0
+S0171,2025-12-17,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,4,1996.0
+S0172,2025-05-29,B024,A Brief History of Time,Stephen Hawking,Science,650.0,3,1950.0
+S0173,2025-12-30,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,4,1900.0
+S0174,2025-02-02,B029,Good to Great,Jim Collins,Business,650.0,2,1300.0
+S0175,2025-01-19,B017,Automate the Boring Stuff,Al Sweigart,Technology,650.0,1,650.0
+S0176,2025-03-03,B019,The Hobbit,J.R.R. Tolkien,Fantasy,499.0,1,499.0
+S0177,2025-01-03,B017,Automate the Boring Stuff,Al Sweigart,Technology,650.0,3,1950.0
+S0178,2025-09-05,B014,The Intelligent Investor,Benjamin Graham,Finance,850.0,3,2550.0
+S0179,2025-12-02,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,4,1900.0
+S0180,2025-03-28,B015,Clean Code,Robert C. Martin,Technology,699.0,3,2097.0
+S0181,2025-11-05,B028,Zero to One,Peter Thiel,Business,499.0,1,499.0
+S0182,2025-09-21,B003,Ikigai,Hector Garcia,Self-Help,449.0,1,449.0
+S0183,2025-09-24,B020,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,599.0,2,1198.0
+S0184,2025-03-18,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,3,1425.0
+S0185,2025-09-27,B010,Educated,Tara Westover,Biography,599.0,4,2396.0
+S0186,2025-08-20,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,2,950.0
+S0187,2025-07-14,B011,Steve Jobs,Walter Isaacson,Biography,799.0,2,1598.0
+S0188,2025-12-17,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,1,499.0
+S0189,2025-07-22,B028,Zero to One,Peter Thiel,Business,499.0,2,998.0
+S0190,2025-02-16,B012,Deep Work,Cal Newport,Productivity,525.0,3,1575.0
+S0191,2025-12-13,B016,Python Crash Course,Eric Matthes,Technology,799.0,4,3196.0
+S0192,2025-08-12,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,2,950.0
+S0193,2025-08-26,B011,Steve Jobs,Walter Isaacson,Biography,799.0,4,3196.0
+S0194,2025-11-05,B021,Dune,Frank Herbert,Fantasy,550.0,4,2200.0
+S0195,2025-04-09,B003,Ikigai,Hector Garcia,Self-Help,449.0,4,1796.0
+S0196,2025-02-14,B019,The Hobbit,J.R.R. Tolkien,Fantasy,499.0,1,499.0
+S0197,2025-01-12,B017,Automate the Boring Stuff,Al Sweigart,Technology,650.0,3,1950.0
+S0198,2025-02-04,B001,The Alchemist,Paulo Coelho,Fiction,399.0,2,798.0
+S0199,2025-06-07,B025,Cosmos,Carl Sagan,Science,725.0,2,1450.0
+S0200,2025-04-26,B014,The Intelligent Investor,Benjamin Graham,Finance,850.0,2,1700.0
+S0201,2025-07-08,B009,Sapiens,Yuval Noah Harari,History,699.0,4,2796.0
+S0202,2025-07-18,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,1,475.0
+S0203,2025-01-17,B030,The Lean Startup,Eric Ries,Business,599.0,4,2396.0
+S0204,2025-10-11,B008,The Great Gatsby,F. Scott Fitzgerald,Fiction,325.0,4,1300.0
+S0205,2025-08-31,B003,Ikigai,Hector Garcia,Self-Help,449.0,4,1796.0
+S0206,2025-02-19,B020,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,599.0,3,1797.0
+S0207,2025-09-06,B002,Atomic Habits,James Clear,Self-Help,599.0,4,2396.0
+S0208,2025-03-31,B001,The Alchemist,Paulo Coelho,Fiction,399.0,1,399.0
+S0209,2025-11-08,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,4,1996.0
+S0210,2025-01-06,B005,The Psychology of Money,Morgan Housel,Finance,550.0,4,2200.0
+S0211,2025-11-28,B020,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,599.0,1,599.0
+S0212,2025-02-27,B001,The Alchemist,Paulo Coelho,Fiction,399.0,1,399.0
+S0213,2025-12-24,B018,Data Science from Scratch,Joel Grus,Technology,900.0,4,3600.0
+S0214,2025-04-16,B006,1984,George Orwell,Fiction,299.0,4,1196.0
+S0215,2025-09-02,B002,Atomic Habits,James Clear,Self-Help,599.0,4,2396.0
+S0216,2025-02-13,B028,Zero to One,Peter Thiel,Business,499.0,4,1996.0
+S0217,2025-10-27,B021,Dune,Frank Herbert,Fantasy,550.0,4,2200.0
+S0218,2025-06-16,B001,The Alchemist,Paulo Coelho,Fiction,399.0,1,399.0
+S0219,2025-09-12,B003,Ikigai,Hector Garcia,Self-Help,449.0,3,1347.0
+S0220,2025-07-20,B022,Pride and Prejudice,Jane Austen,Classic,399.0,3,1197.0
+S0221,2025-06-13,B026,The Power of Now,Eckhart Tolle,Self-Help,499.0,1,499.0
+S0222,2025-01-20,B022,Pride and Prejudice,Jane Austen,Classic,399.0,1,399.0
+S0223,2025-02-06,B007,To Kill a Mockingbird,Harper Lee,Fiction,350.0,3,1050.0
+S0224,2025-10-01,B030,The Lean Startup,Eric Ries,Business,599.0,3,1797.0
+S0225,2025-01-26,B002,Atomic Habits,James Clear,Self-Help,599.0,3,1797.0
+S0226,2025-03-21,B001,The Alchemist,Paulo Coelho,Fiction,399.0,4,1596.0
+S0227,2025-05-31,B021,Dune,Frank Herbert,Fantasy,550.0,1,550.0
+S0228,2025-10-09,B002,Atomic Habits,James Clear,Self-Help,599.0,1,599.0
+S0229,2025-08-05,B030,The Lean Startup,Eric Ries,Business,599.0,2,1198.0
+S0230,2025-04-03,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,3,1425.0
+S0231,2025-06-12,B017,Automate the Boring Stuff,Al Sweigart,Technology,650.0,1,650.0
+S0232,2025-07-17,B029,Good to Great,Jim Collins,Business,650.0,2,1300.0
+S0233,2025-07-16,B017,Automate the Boring Stuff,Al Sweigart,Technology,650.0,3,1950.0
+S0234,2025-06-11,B020,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,599.0,4,2396.0
+S0235,2025-06-18,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,3,1497.0
+S0236,2025-11-30,B012,Deep Work,Cal Newport,Productivity,525.0,2,1050.0
+S0237,2025-12-22,B003,Ikigai,Hector Garcia,Self-Help,449.0,1,449.0
+S0238,2025-02-04,B008,The Great Gatsby,F. Scott Fitzgerald,Fiction,325.0,2,650.0
+S0239,2025-10-14,B013,Think and Grow Rich,Napoleon Hill,Self-Help,375.0,3,1125.0
+S0240,2025-12-21,B019,The Hobbit,J.R.R. Tolkien,Fantasy,499.0,2,998.0
+S0241,2025-11-03,B012,Deep Work,Cal Newport,Productivity,525.0,1,525.0
+S0242,2025-08-08,B017,Automate the Boring Stuff,Al Sweigart,Technology,650.0,2,1300.0
+S0243,2025-04-20,B001,The Alchemist,Paulo Coelho,Fiction,399.0,2,798.0
+S0244,2025-02-23,B015,Clean Code,Robert C. Martin,Technology,699.0,1,699.0
+S0245,2025-05-09,B017,Automate the Boring Stuff,Al Sweigart,Technology,650.0,3,1950.0
+S0246,2025-07-19,B021,Dune,Frank Herbert,Fantasy,550.0,3,1650.0
+S0247,2025-08-14,B020,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,599.0,2,1198.0
+S0248,2025-05-06,B024,A Brief History of Time,Stephen Hawking,Science,650.0,3,1950.0
+S0249,2025-07-13,B013,Think and Grow Rich,Napoleon Hill,Self-Help,375.0,3,1125.0
+S0250,2025-12-18,B011,Steve Jobs,Walter Isaacson,Biography,799.0,3,2397.0
+S0251,2025-07-23,B022,Pride and Prejudice,Jane Austen,Classic,399.0,4,1596.0
+S0252,2025-11-07,B028,Zero to One,Peter Thiel,Business,499.0,3,1497.0
+S0253,2025-04-09,B016,Python Crash Course,Eric Matthes,Technology,799.0,4,3196.0
+S0254,2025-07-09,B009,Sapiens,Yuval Noah Harari,History,699.0,4,2796.0
+S0255,2025-01-16,B015,Clean Code,Robert C. Martin,Technology,699.0,1,699.0
+S0256,2025-11-14,B002,Atomic Habits,James Clear,Self-Help,599.0,4,2396.0
+S0257,2025-01-29,B002,Atomic Habits,James Clear,Self-Help,599.0,2,1198.0
+S0258,2025-06-27,B010,Educated,Tara Westover,Biography,599.0,1,599.0
+S0259,2025-01-25,B009,Sapiens,Yuval Noah Harari,History,699.0,3,2097.0
+S0260,2025-06-09,B001,The Alchemist,Paulo Coelho,Fiction,399.0,4,1596.0
+S0261,2025-06-01,B026,The Power of Now,Eckhart Tolle,Self-Help,499.0,2,998.0
+S0262,2025-03-29,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,3,1497.0
+S0263,2025-07-05,B003,Ikigai,Hector Garcia,Self-Help,449.0,2,898.0
+S0264,2025-01-28,B029,Good to Great,Jim Collins,Business,650.0,4,2600.0
+S0265,2025-06-04,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,2,950.0
+S0266,2025-02-22,B020,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,599.0,3,1797.0
+S0267,2025-12-04,B012,Deep Work,Cal Newport,Productivity,525.0,3,1575.0
+S0268,2025-09-04,B001,The Alchemist,Paulo Coelho,Fiction,399.0,1,399.0
+S0269,2025-06-20,B016,Python Crash Course,Eric Matthes,Technology,799.0,1,799.0
+S0270,2025-06-02,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,4,1996.0
+S0271,2025-12-16,B030,The Lean Startup,Eric Ries,Business,599.0,3,1797.0
+S0272,2025-10-20,B026,The Power of Now,Eckhart Tolle,Self-Help,499.0,4,1996.0
+S0273,2025-07-03,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,2,998.0
+S0274,2025-04-30,B012,Deep Work,Cal Newport,Productivity,525.0,1,525.0
+S0275,2025-01-16,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,2,950.0
+S0276,2025-12-02,B014,The Intelligent Investor,Benjamin Graham,Finance,850.0,1,850.0
+S0277,2025-03-31,B005,The Psychology of Money,Morgan Housel,Finance,550.0,4,2200.0
+S0278,2025-08-19,B002,Atomic Habits,James Clear,Self-Help,599.0,1,599.0
+S0279,2025-03-12,B008,The Great Gatsby,F. Scott Fitzgerald,Fiction,325.0,2,650.0
+S0280,2025-09-21,B017,Automate the Boring Stuff,Al Sweigart,Technology,650.0,2,1300.0
+S0281,2025-04-09,B002,Atomic Habits,James Clear,Self-Help,599.0,1,599.0
+S0282,2025-11-08,B026,The Power of Now,Eckhart Tolle,Self-Help,499.0,3,1497.0
+S0283,2025-05-29,B020,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,599.0,3,1797.0
+S0284,2025-08-13,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,1,475.0
+S0285,2025-09-29,B011,Steve Jobs,Walter Isaacson,Biography,799.0,3,2397.0
+S0286,2025-12-06,B010,Educated,Tara Westover,Biography,599.0,4,2396.0
+S0287,2025-07-13,B015,Clean Code,Robert C. Martin,Technology,699.0,4,2796.0
+S0288,2025-05-16,B026,The Power of Now,Eckhart Tolle,Self-Help,499.0,3,1497.0
+S0289,2025-04-22,B028,Zero to One,Peter Thiel,Business,499.0,3,1497.0
+S0290,2025-05-21,B026,The Power of Now,Eckhart Tolle,Self-Help,499.0,2,998.0
+S0291,2025-11-06,B015,Clean Code,Robert C. Martin,Technology,699.0,3,2097.0
+S0292,2025-01-09,B003,Ikigai,Hector Garcia,Self-Help,449.0,2,898.0
+S0293,2025-08-18,B028,Zero to One,Peter Thiel,Business,499.0,3,1497.0
+S0294,2025-01-04,B005,The Psychology of Money,Morgan Housel,Finance,550.0,2,1100.0
+S0295,2025-04-05,B005,The Psychology of Money,Morgan Housel,Finance,550.0,1,550.0
+S0296,2025-09-10,B028,Zero to One,Peter Thiel,Business,499.0,2,998.0
+S0297,2025-02-21,B009,Sapiens,Yuval Noah Harari,History,699.0,3,2097.0
+S0298,2025-06-01,B001,The Alchemist,Paulo Coelho,Fiction,399.0,2,798.0
+S0299,2025-07-11,B021,Dune,Frank Herbert,Fantasy,550.0,3,1650.0
+S0300,2025-10-21,B030,The Lean Startup,Eric Ries,Business,599.0,3,1797.0
+S0301,2025-12-26,B015,Clean Code,Robert C. Martin,Technology,699.0,4,2796.0
+S0302,2025-07-08,B028,Zero to One,Peter Thiel,Business,499.0,3,1497.0
+S0303,2025-08-16,B029,Good to Great,Jim Collins,Business,650.0,4,2600.0
+S0304,2025-01-28,B027,Start With Why,Simon Sinek,Business,525.0,1,525.0
+S0305,2025-10-23,B022,Pride and Prejudice,Jane Austen,Classic,399.0,2,798.0
+S0306,2025-12-17,B016,Python Crash Course,Eric Matthes,Technology,799.0,3,2397.0
+S0307,2025-02-09,B030,The Lean Startup,Eric Ries,Business,599.0,4,2396.0
+S0308,2025-10-27,B008,The Great Gatsby,F. Scott Fitzgerald,Fiction,325.0,3,975.0
+S0309,2025-08-21,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,2,950.0
+S0310,2025-04-19,B003,Ikigai,Hector Garcia,Self-Help,449.0,1,449.0
+S0311,2025-12-18,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,2,950.0
+S0312,2025-11-10,B030,The Lean Startup,Eric Ries,Business,599.0,2,1198.0
+S0313,2025-03-30,B030,The Lean Startup,Eric Ries,Business,599.0,2,1198.0
+S0314,2025-08-26,B024,A Brief History of Time,Stephen Hawking,Science,650.0,1,650.0
+S0315,2025-07-17,B016,Python Crash Course,Eric Matthes,Technology,799.0,4,3196.0
+S0316,2025-06-12,B028,Zero to One,Peter Thiel,Business,499.0,4,1996.0
+S0317,2025-01-21,B001,The Alchemist,Paulo Coelho,Fiction,399.0,2,798.0
+S0318,2025-05-15,B002,Atomic Habits,James Clear,Self-Help,599.0,1,599.0
+S0319,2025-10-06,B020,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,599.0,3,1797.0
+S0320,2025-01-03,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,4,1900.0
+S0321,2025-05-24,B022,Pride and Prejudice,Jane Austen,Classic,399.0,4,1596.0
+S0322,2025-11-28,B002,Atomic Habits,James Clear,Self-Help,599.0,1,599.0
+S0323,2025-03-27,B019,The Hobbit,J.R.R. Tolkien,Fantasy,499.0,4,1996.0
+S0324,2025-12-14,B001,The Alchemist,Paulo Coelho,Fiction,399.0,3,1197.0
+S0325,2025-07-13,B020,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,599.0,1,599.0
+S0326,2025-09-13,B012,Deep Work,Cal Newport,Productivity,525.0,4,2100.0
+S0327,2025-04-03,B020,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,599.0,1,599.0
+S0328,2025-07-11,B026,The Power of Now,Eckhart Tolle,Self-Help,499.0,2,998.0
+S0329,2025-11-26,B026,The Power of Now,Eckhart Tolle,Self-Help,499.0,2,998.0
+S0330,2025-06-13,B017,Automate the Boring Stuff,Al Sweigart,Technology,650.0,2,1300.0
+S0331,2025-07-20,B008,The Great Gatsby,F. Scott Fitzgerald,Fiction,325.0,4,1300.0
+S0332,2025-09-05,B005,The Psychology of Money,Morgan Housel,Finance,550.0,1,550.0
+S0333,2025-06-14,B010,Educated,Tara Westover,Biography,599.0,3,1797.0
+S0334,2025-07-14,B024,A Brief History of Time,Stephen Hawking,Science,650.0,4,2600.0
+S0335,2025-10-10,B009,Sapiens,Yuval Noah Harari,History,699.0,2,1398.0
+S0336,2025-02-13,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,3,1497.0
+S0337,2025-11-09,B030,The Lean Startup,Eric Ries,Business,599.0,3,1797.0
+S0338,2025-01-23,B018,Data Science from Scratch,Joel Grus,Technology,900.0,2,1800.0
+S0339,2025-03-22,B028,Zero to One,Peter Thiel,Business,499.0,2,998.0
+S0340,2025-02-07,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,2,998.0
+S0341,2025-05-09,B002,Atomic Habits,James Clear,Self-Help,599.0,1,599.0
+S0342,2025-04-21,B001,The Alchemist,Paulo Coelho,Fiction,399.0,2,798.0
+S0343,2025-11-18,B019,The Hobbit,J.R.R. Tolkien,Fantasy,499.0,2,998.0
+S0344,2025-11-20,B013,Think and Grow Rich,Napoleon Hill,Self-Help,375.0,4,1500.0
+S0345,2025-07-03,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,3,1425.0
+S0346,2025-05-07,B008,The Great Gatsby,F. Scott Fitzgerald,Fiction,325.0,4,1300.0
+S0347,2025-07-24,B006,1984,George Orwell,Fiction,299.0,2,598.0
+S0348,2025-04-22,B028,Zero to One,Peter Thiel,Business,499.0,3,1497.0
+S0349,2025-03-20,B022,Pride and Prejudice,Jane Austen,Classic,399.0,3,1197.0
+S0350,2025-01-10,B020,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,599.0,2,1198.0
+S0351,2025-04-20,B006,1984,George Orwell,Fiction,299.0,2,598.0
+S0352,2025-05-07,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,4,1996.0
+S0353,2025-01-23,B008,The Great Gatsby,F. Scott Fitzgerald,Fiction,325.0,3,975.0
+S0354,2025-08-02,B024,A Brief History of Time,Stephen Hawking,Science,650.0,4,2600.0
+S0355,2025-11-11,B013,Think and Grow Rich,Napoleon Hill,Self-Help,375.0,2,750.0
+S0356,2025-08-03,B030,The Lean Startup,Eric Ries,Business,599.0,3,1797.0
+S0357,2025-09-03,B025,Cosmos,Carl Sagan,Science,725.0,4,2900.0
+S0358,2025-06-21,B024,A Brief History of Time,Stephen Hawking,Science,650.0,1,650.0
+S0359,2025-04-27,B017,Automate the Boring Stuff,Al Sweigart,Technology,650.0,1,650.0
+S0360,2025-04-27,B020,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,599.0,4,2396.0
+S0361,2025-12-08,B016,Python Crash Course,Eric Matthes,Technology,799.0,2,1598.0
+S0362,2025-12-09,B001,The Alchemist,Paulo Coelho,Fiction,399.0,4,1596.0
+S0363,2025-04-18,B003,Ikigai,Hector Garcia,Self-Help,449.0,1,449.0
+S0364,2025-07-28,B006,1984,George Orwell,Fiction,299.0,1,299.0
+S0365,2025-04-07,B014,The Intelligent Investor,Benjamin Graham,Finance,850.0,3,2550.0
+S0366,2025-01-18,B009,Sapiens,Yuval Noah Harari,History,699.0,1,699.0
+S0367,2025-08-20,B003,Ikigai,Hector Garcia,Self-Help,449.0,2,898.0
+S0368,2025-11-24,B002,Atomic Habits,James Clear,Self-Help,599.0,3,1797.0
+S0369,2025-12-23,B005,The Psychology of Money,Morgan Housel,Finance,550.0,2,1100.0
+S0370,2025-03-26,B012,Deep Work,Cal Newport,Productivity,525.0,2,1050.0
+S0371,2025-04-16,B001,The Alchemist,Paulo Coelho,Fiction,399.0,1,399.0
+S0372,2025-03-01,B026,The Power of Now,Eckhart Tolle,Self-Help,499.0,1,499.0
+S0373,2025-04-11,B015,Clean Code,Robert C. Martin,Technology,699.0,2,1398.0
+S0374,2025-05-30,B010,Educated,Tara Westover,Biography,599.0,2,1198.0
+S0375,2025-06-20,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,4,1900.0
+S0376,2025-03-25,B007,To Kill a Mockingbird,Harper Lee,Fiction,350.0,2,700.0
+S0377,2025-11-30,B006,1984,George Orwell,Fiction,299.0,2,598.0
+S0378,2025-05-02,B020,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,599.0,1,599.0
+S0379,2025-04-01,B010,Educated,Tara Westover,Biography,599.0,4,2396.0
+S0380,2025-06-30,B002,Atomic Habits,James Clear,Self-Help,599.0,2,1198.0
+S0381,2025-03-11,B021,Dune,Frank Herbert,Fantasy,550.0,1,550.0
+S0382,2025-04-27,B002,Atomic Habits,James Clear,Self-Help,599.0,1,599.0
+S0383,2025-02-02,B028,Zero to One,Peter Thiel,Business,499.0,1,499.0
+S0384,2025-10-26,B005,The Psychology of Money,Morgan Housel,Finance,550.0,1,550.0
+S0385,2025-09-15,B003,Ikigai,Hector Garcia,Self-Help,449.0,3,1347.0
+S0386,2025-02-02,B006,1984,George Orwell,Fiction,299.0,3,897.0
+S0387,2025-09-08,B017,Automate the Boring Stuff,Al Sweigart,Technology,650.0,4,2600.0
+S0388,2025-04-13,B001,The Alchemist,Paulo Coelho,Fiction,399.0,4,1596.0
+S0389,2025-06-17,B019,The Hobbit,J.R.R. Tolkien,Fantasy,499.0,1,499.0
+S0390,2025-12-30,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,4,1900.0
+S0391,2025-04-01,B007,To Kill a Mockingbird,Harper Lee,Fiction,350.0,4,1400.0
+S0392,2025-12-20,B014,The Intelligent Investor,Benjamin Graham,Finance,850.0,3,2550.0
+S0393,2025-01-29,B030,The Lean Startup,Eric Ries,Business,599.0,2,1198.0
+S0394,2025-02-24,B025,Cosmos,Carl Sagan,Science,725.0,2,1450.0
+S0395,2025-02-11,B024,A Brief History of Time,Stephen Hawking,Science,650.0,3,1950.0
+S0396,2025-07-08,B005,The Psychology of Money,Morgan Housel,Finance,550.0,2,1100.0
+S0397,2025-10-28,B009,Sapiens,Yuval Noah Harari,History,699.0,1,699.0
+S0398,2025-09-26,B001,The Alchemist,Paulo Coelho,Fiction,399.0,2,798.0
+S0399,2025-09-14,B001,The Alchemist,Paulo Coelho,Fiction,399.0,1,399.0
+S0400,2025-11-05,B022,Pride and Prejudice,Jane Austen,Classic,399.0,3,1197.0
+S0401,2025-10-29,B022,Pride and Prejudice,Jane Austen,Classic,399.0,2,798.0
+S0402,2025-02-23,B027,Start With Why,Simon Sinek,Business,525.0,3,1575.0
+S0403,2025-10-11,B003,Ikigai,Hector Garcia,Self-Help,449.0,1,449.0
+S0404,2025-01-22,B020,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,599.0,1,599.0
+S0405,2025-02-14,B015,Clean Code,Robert C. Martin,Technology,699.0,4,2796.0
+S0406,2025-12-04,B001,The Alchemist,Paulo Coelho,Fiction,399.0,1,399.0
+S0407,2025-07-30,B030,The Lean Startup,Eric Ries,Business,599.0,3,1797.0
+S0408,2025-07-29,B003,Ikigai,Hector Garcia,Self-Help,449.0,4,1796.0
+S0409,2025-06-01,B027,Start With Why,Simon Sinek,Business,525.0,3,1575.0
+S0410,2025-03-08,B019,The Hobbit,J.R.R. Tolkien,Fantasy,499.0,2,998.0
+S0411,2025-06-13,B002,Atomic Habits,James Clear,Self-Help,599.0,3,1797.0
+S0412,2025-05-06,B009,Sapiens,Yuval Noah Harari,History,699.0,3,2097.0
+S0413,2025-03-11,B026,The Power of Now,Eckhart Tolle,Self-Help,499.0,1,499.0
+S0414,2025-02-27,B018,Data Science from Scratch,Joel Grus,Technology,900.0,1,900.0
+S0415,2025-11-03,B027,Start With Why,Simon Sinek,Business,525.0,2,1050.0
+S0416,2025-03-09,B018,Data Science from Scratch,Joel Grus,Technology,900.0,3,2700.0
+S0417,2025-10-02,B012,Deep Work,Cal Newport,Productivity,525.0,3,1575.0
+S0418,2025-10-06,B022,Pride and Prejudice,Jane Austen,Classic,399.0,3,1197.0
+S0419,2025-09-19,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,4,1900.0
+S0420,2025-12-04,B013,Think and Grow Rich,Napoleon Hill,Self-Help,375.0,3,1125.0
+S0421,2025-01-13,B001,The Alchemist,Paulo Coelho,Fiction,399.0,4,1596.0
+S0422,2025-06-06,B016,Python Crash Course,Eric Matthes,Technology,799.0,2,1598.0
+S0423,2025-10-09,B003,Ikigai,Hector Garcia,Self-Help,449.0,4,1796.0
+S0424,2025-02-28,B012,Deep Work,Cal Newport,Productivity,525.0,3,1575.0
+S0425,2025-05-12,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,4,1996.0
+S0426,2025-09-06,B005,The Psychology of Money,Morgan Housel,Finance,550.0,1,550.0
+S0427,2025-12-25,B026,The Power of Now,Eckhart Tolle,Self-Help,499.0,4,1996.0
+S0428,2025-05-06,B005,The Psychology of Money,Morgan Housel,Finance,550.0,2,1100.0
+S0429,2025-08-24,B022,Pride and Prejudice,Jane Austen,Classic,399.0,4,1596.0
+S0430,2025-05-31,B012,Deep Work,Cal Newport,Productivity,525.0,3,1575.0
+S0431,2025-08-27,B022,Pride and Prejudice,Jane Austen,Classic,399.0,3,1197.0
+S0432,2025-12-13,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,3,1425.0
+S0433,2025-10-12,B003,Ikigai,Hector Garcia,Self-Help,449.0,4,1796.0
+S0434,2025-11-11,B026,The Power of Now,Eckhart Tolle,Self-Help,499.0,4,1996.0
+S0435,2025-01-02,B003,Ikigai,Hector Garcia,Self-Help,449.0,1,449.0
+S0436,2025-06-16,B022,Pride and Prejudice,Jane Austen,Classic,399.0,1,399.0
+S0437,2025-12-27,B030,The Lean Startup,Eric Ries,Business,599.0,2,1198.0
+S0438,2025-12-06,B021,Dune,Frank Herbert,Fantasy,550.0,4,2200.0
+S0439,2025-08-17,B012,Deep Work,Cal Newport,Productivity,525.0,2,1050.0
+S0440,2025-07-28,B018,Data Science from Scratch,Joel Grus,Technology,900.0,3,2700.0
+S0441,2025-01-04,B012,Deep Work,Cal Newport,Productivity,525.0,3,1575.0
+S0442,2025-07-04,B028,Zero to One,Peter Thiel,Business,499.0,2,998.0
+S0443,2025-05-04,B005,The Psychology of Money,Morgan Housel,Finance,550.0,2,1100.0
+S0444,2025-10-08,B012,Deep Work,Cal Newport,Productivity,525.0,1,525.0
+S0445,2025-04-23,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,3,1497.0
+S0446,2025-01-09,B010,Educated,Tara Westover,Biography,599.0,4,2396.0
+S0447,2025-03-14,B006,1984,George Orwell,Fiction,299.0,1,299.0
+S0448,2025-08-02,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,4,1900.0
+S0449,2025-06-24,B008,The Great Gatsby,F. Scott Fitzgerald,Fiction,325.0,1,325.0
+S0450,2025-06-24,B005,The Psychology of Money,Morgan Housel,Finance,550.0,3,1650.0
+S0451,2025-06-15,B014,The Intelligent Investor,Benjamin Graham,Finance,850.0,2,1700.0
+S0452,2025-01-04,B002,Atomic Habits,James Clear,Self-Help,599.0,2,1198.0
+S0453,2025-03-31,B029,Good to Great,Jim Collins,Business,650.0,3,1950.0
+S0454,2025-11-19,B015,Clean Code,Robert C. Martin,Technology,699.0,1,699.0
+S0455,2025-02-19,B007,To Kill a Mockingbird,Harper Lee,Fiction,350.0,2,700.0
+S0456,2025-04-21,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,4,1900.0
+S0457,2025-02-08,B027,Start With Why,Simon Sinek,Business,525.0,4,2100.0
+S0458,2025-05-10,B030,The Lean Startup,Eric Ries,Business,599.0,4,2396.0
+S0459,2025-05-30,B002,Atomic Habits,James Clear,Self-Help,599.0,1,599.0
+S0460,2025-03-23,B009,Sapiens,Yuval Noah Harari,History,699.0,3,2097.0
+S0461,2025-10-26,B003,Ikigai,Hector Garcia,Self-Help,449.0,4,1796.0
+S0462,2025-05-27,B019,The Hobbit,J.R.R. Tolkien,Fantasy,499.0,3,1497.0
+S0463,2025-01-30,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,2,998.0
+S0464,2025-02-08,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,4,1996.0
+S0465,2025-07-11,B017,Automate the Boring Stuff,Al Sweigart,Technology,650.0,3,1950.0
+S0466,2025-11-06,B009,Sapiens,Yuval Noah Harari,History,699.0,2,1398.0
+S0467,2025-02-10,B012,Deep Work,Cal Newport,Productivity,525.0,4,2100.0
+S0468,2025-01-16,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,1,475.0
+S0469,2025-05-30,B029,Good to Great,Jim Collins,Business,650.0,1,650.0
+S0470,2025-09-23,B027,Start With Why,Simon Sinek,Business,525.0,1,525.0
+S0471,2025-03-06,B007,To Kill a Mockingbird,Harper Lee,Fiction,350.0,4,1400.0
+S0472,2025-08-26,B005,The Psychology of Money,Morgan Housel,Finance,550.0,2,1100.0
+S0473,2025-03-09,B013,Think and Grow Rich,Napoleon Hill,Self-Help,375.0,1,375.0
+S0474,2025-02-18,B021,Dune,Frank Herbert,Fantasy,550.0,4,2200.0
+S0475,2025-09-30,B027,Start With Why,Simon Sinek,Business,525.0,2,1050.0
+S0476,2025-09-20,B016,Python Crash Course,Eric Matthes,Technology,799.0,1,799.0
+S0477,2025-04-19,B006,1984,George Orwell,Fiction,299.0,1,299.0
+S0478,2025-01-28,B029,Good to Great,Jim Collins,Business,650.0,4,2600.0
+S0479,2025-04-30,B023,The Kite Runner,Khaled Hosseini,Fiction,475.0,3,1425.0
+S0480,2025-06-14,B015,Clean Code,Robert C. Martin,Technology,699.0,3,2097.0
+S0481,2025-10-29,B016,Python Crash Course,Eric Matthes,Technology,799.0,2,1598.0
+S0482,2025-05-12,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,1,499.0
+S0483,2025-02-02,B029,Good to Great,Jim Collins,Business,650.0,2,1300.0
+S0484,2025-02-23,B029,Good to Great,Jim Collins,Business,650.0,1,650.0
+S0485,2025-12-17,B016,Python Crash Course,Eric Matthes,Technology,799.0,1,799.0
+S0486,2025-11-16,B007,To Kill a Mockingbird,Harper Lee,Fiction,350.0,1,350.0
+S0487,2025-02-27,B003,Ikigai,Hector Garcia,Self-Help,449.0,4,1796.0
+S0488,2025-12-01,B009,Sapiens,Yuval Noah Harari,History,699.0,3,2097.0
+S0489,2025-12-21,B014,The Intelligent Investor,Benjamin Graham,Finance,850.0,2,1700.0
+S0490,2025-08-30,B016,Python Crash Course,Eric Matthes,Technology,799.0,1,799.0
+S0491,2025-02-22,B030,The Lean Startup,Eric Ries,Business,599.0,4,2396.0
+S0492,2025-05-16,B022,Pride and Prejudice,Jane Austen,Classic,399.0,2,798.0
+S0493,2025-10-30,B004,Rich Dad Poor Dad,Robert Kiyosaki,Finance,499.0,4,1996.0
+S0494,2025-07-24,B010,Educated,Tara Westover,Biography,599.0,1,599.0
+S0495,2025-01-21,B010,Educated,Tara Westover,Biography,599.0,4,2396.0
+S0496,2025-01-20,B019,The Hobbit,J.R.R. Tolkien,Fantasy,499.0,4,1996.0
+S0497,2025-10-29,B024,A Brief History of Time,Stephen Hawking,Science,650.0,1,650.0
+S0498,2025-07-13,B028,Zero to One,Peter Thiel,Business,499.0,2,998.0
+S0499,2025-10-03,B019,The Hobbit,J.R.R. Tolkien,Fantasy,499.0,1,499.0
+S0500,2025-04-13,B030,The Lean Startup,Eric Ries,Business,599.0,2,1198.0
